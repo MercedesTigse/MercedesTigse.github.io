@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi experiencia"
-date: 2017-04-06 13:32:20 +0300
+date: 2019-12-18 
 description: 
 img:  # Add image post (optional)
 ---
