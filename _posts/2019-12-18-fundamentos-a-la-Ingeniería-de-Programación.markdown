@@ -5,9 +5,9 @@ date: 2019-12-18
 description: 
 img: fundamentos.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+
 ---
-Definición de IS: 
+## Definición de IS: 
 La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
 ## Objetivos de la IS:
@@ -43,8 +43,6 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 * Líneas de productos software
 
 ![Primeras Computadoras]({{site.baseurl}}/assets/img/fundamentosfunda.jpg)
-
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
 
 >• Establecer los fundamentos de diseño de programas basados en la descomposición modular y la programación estructurada, introduciendo de forma sistemática y progresiva una correcta metodología para la programación de computadoras.
 • Describir las etapas del ciclo de vida del software, ubicando y haciendo especial énfasis en la descripción de las etapas de diseño de algoritmos, codificación y prueba.
