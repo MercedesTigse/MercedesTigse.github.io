@@ -5,7 +5,7 @@ date: 2019-12-18
 description: 
 img: procesos.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+
 ---
 ###  El Proceso de SW
 Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software. Muchos de los procesos de software son diferentes, pero todos implican:
