@@ -3,7 +3,7 @@ layout: post
 title: Procesos de la Ingeniería de la Información
 date: 2019-12-18
 description: 
-img: software.jpg # Add image post (optional)
+img: procesos.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
