@@ -3,7 +3,7 @@ layout: post
 title: Sistemas de Información
 date: 2019-12-18
 description:
-img: how-to-start.jpg # Add image post (optional)
+img: sistemas.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 # Concepto
