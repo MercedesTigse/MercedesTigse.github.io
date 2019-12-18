@@ -3,7 +3,7 @@ layout: post
 title: Fundamentos a la Ingeniería de Programación
 date: 2019-12-18
 description: 
-img: i-rest.jpg # Add image post (optional)
+img: fundamentos.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
@@ -42,7 +42,7 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 * Desarrollo dirigido por modelos
 * Líneas de productos software
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Primeras Computadoras]({{site.baseurl}}/assets/img/fundamentosfunda.jpg)
 
 Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
 
