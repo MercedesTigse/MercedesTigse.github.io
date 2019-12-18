@@ -4,7 +4,7 @@ title: Sistemas de Información
 date: 2019-12-18
 description:
 img: sistemas.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+
 ---
 # Concepto
 Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006).
