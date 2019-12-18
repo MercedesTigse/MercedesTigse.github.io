@@ -3,7 +3,7 @@ layout: post
 title: Modelos de Procesos de Software
 date: 2019-12-18
 description: 
-img: js-1.png # Add image post (optional)
+img: modelos.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
 # Modelo de Cascada
