@@ -12,9 +12,9 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Mercedes Tigse # add your name
 author-img: mercedes.jpg # add your photo
 about-author: Durante estos meses que han transcurrido en mi primer semestre, he tenido diferentes materiales de trabajo que son de utilidad en cada materia de la carrera que escogí, en estos meses he aprendido nuevas técnicas y tácticas que me permiten desarrollar algun proyecto de manera rápida y eficaz. # add description
-social-twitter: Mercedes Tigse # add your Twitter handle
-social-facebook: Mërcëdës Tigsë # add your Facebook handle
-social-github: MercedesTigse # add your Github handle
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: # add your Github handle
 # social-linkedin: # add your Linkedin handle
 social-email: mercedes-t-14@hotmail.com # add your Email address
 
