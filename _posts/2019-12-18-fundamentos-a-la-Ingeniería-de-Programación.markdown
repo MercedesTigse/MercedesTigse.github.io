@@ -3,8 +3,7 @@ layout: post
 title: Fundamentos a la Ingeniería de Programación
 date: 2019-12-18
 description: 
-img: fundamentos.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: fundamentos.jpg
 
 ---
 ## Definición de IS: 
