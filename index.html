@@ -3,8 +3,8 @@ layout: main
 ---
 {% for post in paginator.posts %}
 <article class="post">
-  {% if mercedes.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/favicon" | prepend: site.baseurl | append : apple-touch-icon.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% if mercedes.jpg %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : mercedes.jpg}})" href="{{post.url | prepend: site.baseurl}}"></a>
   {% else %}
   {% endif %}
   <div class="post-content">
